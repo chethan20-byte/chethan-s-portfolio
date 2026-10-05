@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="400" viewBox="0 0 640 400" font-family="system-ui,sans-serif"><rect width="640" height="400" fill="#18181b"/>
+<rect x="50" y="40" width="540" height="320" rx="10" fill="#101012" stroke="#27272a" stroke-width="2"/><path d="M50 50a10 10 0 0 1 10-10h520a10 10 0 0 1 10 10v22H50z" fill="#27272a"/>
+<circle cx="74" cy="56" r="5" fill="#52525b"/><circle cx="94" cy="56" r="5" fill="#52525b"/><circle cx="114" cy="56" r="5" fill="#52525b"/>
+<g font-family="ui-monospace,Consolas,monospace" font-size="15">
+<text x="74" y="104" fill="#e4e4e7">$ ping 192.168.10.1</text>
+<text x="74" y="128" fill="#a1a1aa">Reply from 192.168.10.1: time&lt;1ms</text>
+<text x="74" y="150" fill="#a1a1aa">Reply from 192.168.10.1: time&lt;1ms</text>
+<text x="74" y="184" fill="#e4e4e7">$ traceroute 8.8.8.8</text>
+<text x="74" y="208" fill="#a1a1aa" xml:space="preserve"> 1  192.168.10.1    1 ms</text>
+<text x="74" y="230" fill="#a1a1aa" xml:space="preserve"> 2  10.0.0.1        4 ms</text>
+<text x="74" y="264" fill="#e4e4e7">$ show vlan brief</text>
+<text x="74" y="288" fill="#a1a1aa" xml:space="preserve">10   SALES      active</text>
+<text x="74" y="310" fill="#a1a1aa" xml:space="preserve">20   ENG        active</text>
+<text x="74" y="340" fill="#e4e4e7">$</text></g><rect x="92" y="327" width="9" height="16" fill="#fafafa"/></svg>
